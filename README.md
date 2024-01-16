@@ -1,2 +1,2 @@
 # Delta-demo
-Demo for creating repository.
+Demo for creating repository...
